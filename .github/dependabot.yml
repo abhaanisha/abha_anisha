@@ -1,4 +1,5 @@
 version: 2
+theme: minima
 updates:
   - package-ecosystem: "github-actions"
     directory: "/"
