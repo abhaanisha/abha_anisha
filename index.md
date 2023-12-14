@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Name - Personal Website</title>
-    <link rel="stylesheet" href="skills-github-pages/style.css">
+    <link rel="skills-github-pages/stylesheet" href="skills-github-pages/style.css">
 </head>
 <body>
     <header>
