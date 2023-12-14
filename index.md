@@ -1,36 +1,39 @@
+---
+layout: default
+---
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Personal Website</title>
-    <link rel="stylesheet" href="abha_anisha/style.css">
-</head>
-<body>
-    <header>
-        <h1>Welcome to My Personal Website</h1>
-    </header>
-    <nav>
-        <ul>
-            <li><a href="#about">About Me</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
-    <section id="about">
-        <h2>About Me</h2>
-        <p>This is a paragraph about yourself. Include information like your background, interests, and achievements.</p>
-    </section>
-    <section id="projects">
-        <h2>Projects</h2>
-        <p>Details about your projects. You can list your work or personal projects here.</p>
-    </section>
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>How to reach you? Add your email, LinkedIn profile, or other contact information here.</p>
-    </section>
-    <footer>
-        <p>Copyright © Your Name. All Rights Reserved.</p>
-    </footer>
-</body>
-</html>
+# Hello, I am Abha Singh Sardar
+
+## About Me
+
+I'm a passionate software developer with a keen interest in open-source projects. I have a strong foundation in computer science and a proven track record of successful project management.
+
+## Technical Skills
+
+- **Programming Languages:** JavaScript, Python, Java
+- **Frameworks:** React, Angular, Node.js
+- **Tools:** Git, Docker, Jenkins
+
+## My Projects
+
+### Project Name
+Description of the project, technologies used, and a link to the project.
+
+### Project Name
+Description of the project, technologies used, and a link to the project.
+
+## My Publications
+
+- "Title of Publication," Description and link to the publication.
+
+## Certificates
+
+- Certificate Name, Description and link to the certificate.
+- Certificate Name, Description and link to the certificate.
+
+## Contact Me
+
+- Email: [email@example.com](mailto:email@example.com)
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- GitHub: [github.com/yourprofile](https://github.com/yourprofile)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
